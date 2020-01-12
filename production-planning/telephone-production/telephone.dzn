@@ -1,0 +1,12 @@
+PHONE = { DESK, CELLULAR };
+
+minUnits = [ 100, 100 ];
+profitPerUnit = [ 12, 20 ];
+
+MACHINE = { ASSEMBLY, PAINTING };
+
+maxTime = [ 400, 490 ];
+
+timePerUnit = [|
+  12, 24, |
+  30, 24  |];
